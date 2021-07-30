@@ -1,0 +1,13 @@
+{"hosts": [
+	{
+		"hostname": "panos.eundo.dev",
+		"address": "10.66.1.10",
+	 	"device_type": "paloalto_panos"
+	},
+	{
+		"hostname": "vyos.eundo.dev",
+		"address": "10.66.66.10",
+       		"device_type": "vyos_ssh"
+	}
+]
+}
